@@ -1,2 +1,2 @@
 # WeatherWidget
-This is Weather chacking page. In this project i have used ReactJS.
+This is Weather chacking page. In this project i have used ReactJS!
